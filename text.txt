@@ -1,1 +1,13 @@
-This is my first text fileThis is my first text fileThis is my first text fileThis is my first text fileThis is my first text file
+This is my first text file
+List of the git command
+
+Pull
+git clone https://github.com/Bighna86/Test-git
+
+
+
+Push
+git add text.txt
+git status
+git commit -m "second commit" text.txt
+git push -u origin master
